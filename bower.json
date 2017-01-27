@@ -1,0 +1,22 @@
+{
+  "name": "foundation-gulp",
+  "authors": [
+    "Camilo Holguin <hello@camiloholguin.me>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.3.0",
+    "sass-bem": "^2.6.5"
+  }
+}

@@ -19,6 +19,10 @@ $ npm run watch
 $ npm run production
 ```
 
+## Dependencies
+
+- [x] [sass-bem](https://github.com/zgabievi/sass-bem)
+
 # License
 
 MIT
